@@ -1,5 +1,7 @@
+# NAME: T.KAVINAJAI
+# REGISTER NUMBER: 212223100020
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE: 13/11/2025
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,7 +38,12 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+<img width="1349" height="765" alt="image" src="https://github.com/user-attachments/assets/575ab86b-6b0e-46c1-8d1e-5510473f90b8" />
 
+<img width="1009" height="714" alt="image" src="https://github.com/user-attachments/assets/5aea9174-7d9b-44af-9228-260887c0ae5e" />
+
+# RESULT:
+THUS THE DIAGRAM WAS DRAWN SUCCESSFULLY
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
